@@ -95,6 +95,53 @@ nav a:hover{
    padding: 5rem 1rem;
    margin-bottom: 2rem;
 }
+
+.hero1{
+    background: linear-gradient(rgba(0,0,
+    0,0.7), rgba(0,0,0,0.7)), url("image/hero-bg.jpg");
+    background-size: cover;
+   background-position: center;
+   color: white;
+   text-align: center;
+   padding: 5rem 1rem;
+   margin-bottom: 2rem;
+}
+
+.hero2 {
+    background: linear-gradient(rgba(0,0,
+    0,0.7), rgba(0,0,0,0.7)), url("image/hero-bg.jpg");
+    background-size: cover;
+   background-position: center;
+   color: white;
+   text-align: center;
+   padding: 5rem 1rem;
+   margin-bottom: 2rem;
+}
+
+.hero3{
+    background: linear-gradient(rgba(0,0,
+    0,0.7), rgba(0,0,0,0.7)), url("image/hero-bg.jpg");
+    background-size: cover;
+   background-position: center;
+   color: white;
+   text-align: center;
+   padding: 5rem 1rem;
+   margin-bottom: 2rem;
+}
+
+.hero4{
+    background: linear-gradient(rgba(0,0,
+    0,0.7), rgba(0,0,0,0.7)), url("image/hero-bg.jpg");
+    background-size: cover;
+   background-position: center;
+   color: white;
+   text-align: center;
+   padding: 5rem 1rem;
+   margin-bottom: 2rem;
+}
+
+   
+ 
 .hero h1{
     color: white;
 }
@@ -172,6 +219,13 @@ footer{
     padding: 1.5rem;
 }
 
+#mc-embed-shell{
+text-align: fixed;
+align-items: center;
+}
+
+
+
 .popup-container{
 position: fixed;
 top: 0;
@@ -199,6 +253,8 @@ align-items: center;
     cursor: pointer;
     font-size: 20px;
 }
+
+
 /*responsive design*/
 @media (max-width:768px) {
     
