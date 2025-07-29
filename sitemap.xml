@@ -1,1 +1,26 @@
-
+<urlse xmlns="http://WW.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://username.github.io/shoes.html</loc>
+<lastmod>2024-18-15</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1.0<priority>
+</url>
+<url>
+<loc>https://username.github.io/dresses.html</loc>
+<lastmod>2024-18-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8<priority>
+</url>
+<url>
+<loc>https://username.github.io/bags.html</loc>
+<lastmod>2024-18-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8<priority>
+</url>
+<url>
+<loc>https://username.github.io/contact.html</loc>
+<lastmod>2024-18-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8<priority>
+</url>
+<url>
